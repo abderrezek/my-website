@@ -1,0 +1,286 @@
+[
+  {
+    "id": "quick-food",
+    "title": "Quick Food",
+    "language": "php",
+    "technologys": ["PHP", "Laravel", "MySQL", "PreactJS"],
+    "cover": {
+      "src": "quick-food/img.PNG",
+      "blur": "quick-food/img.PNG"
+    },
+    "images": [
+      {
+        "src": "quick-food/img.PNG",
+        "w": 210,
+        "h": 600
+      }
+    ],
+    "source": "quick-food",
+    "description": "quick food description"
+  },
+
+  {
+    "id": "position-app",
+    "title": "Position APP",
+    "language": "php",
+    "technologys": ["PHP", "Laravel", "MySQL", "Livewire"],
+    "cover": {
+      "src": "position-app/img.PNG",
+      "blur": "position-app/img.PNG"
+    },
+    "images": [
+      {
+        "src": "position-app/img.PNG",
+        "w": 210,
+        "h": 600
+      }
+    ],
+    "source": "position-app",
+    "description": "position app description"
+  },
+
+  {
+    "id": "tshirt-app",
+    "title": "t-shirt APP",
+    "language": "php",
+    "technologys": ["PHP", "Laravel", "MySQL", "Livewire", "AlpineJS"],
+    "cover": {
+      "src": "tshirt-app/img.png",
+      "blur": "tshirt-app/img.png"
+    },
+    "images": [
+      {
+        "src": "tshirt-app/img.png",
+        "w": 210,
+        "h": 600
+      }
+    ],
+    "source": "tshirt-app",
+    "description": "tshirt app description"
+  },
+
+  {
+    "id": "movies-app",
+    "title": "Movies APP",
+    "language": "php",
+    "technologys": ["PHP", "Laravel", "MySQL"],
+    "cover": {
+      "src": "movies-app/img.png",
+      "blur": "movies-app/img.png"
+    },
+    "images": [
+      {
+        "src": "movies-app/img.png",
+        "w": 210,
+        "h": 600
+      }
+    ],
+    "source": "movies-app",
+    "description": "movies app description"
+  },
+
+  {
+    "id": "proshop",
+    "title": "ProShop APP",
+    "language": "js",
+    "technologys": ["JS", "ReactJS", "Express", "MongoDB"],
+    "cover": {
+      "src": "proshop/img.png",
+      "blur": "proshop/img.png"
+    },
+    "images": [
+      {
+        "src": "proshop/img.png",
+        "w": 210,
+        "h": 600
+      }
+    ],
+    "source": "proshop",
+    "description": "proshop app description"
+  },
+
+  {
+    "id": "slack-clone",
+    "title": "Slack Clone APP",
+    "language": "js",
+    "technologys": ["JS", "ReactJS", "Redux"],
+    "cover": {
+      "src": "slack-clone/img.png",
+      "blur": "slack-clone/img.png"
+    },
+    "images": [
+      {
+        "src": "slack-clone/img.png",
+        "w": 210,
+        "h": 600
+      }
+    ],
+    "source": "slack-clone",
+    "description": "slack-clone app description"
+  },
+
+  {
+    "id": "credits-app",
+    "title": "Credits APP",
+    "language": "js",
+    "technologys": ["JS", "ReactJS", "React Native", "SQlite"],
+    "cover": {
+      "src": "credits-app/img.png",
+      "blur": "credits-app/img.png"
+    },
+    "images": [
+      {
+        "src": "credits-app/img.png",
+        "w": 210,
+        "h": 600
+      }
+    ],
+    "source": "credits-app",
+    "description": "credits-app app description"
+  },
+
+  {
+    "id": "currency-converter-app",
+    "title": "Currency Converter APP",
+    "language": "js",
+    "technologys": ["JS", "ReactJS", "React Native"],
+    "cover": {
+      "src": "currency-converter-app/img.png",
+      "blur": "currency-converter-app/img.png"
+    },
+    "images": [
+      {
+        "src": "currency-converter-app/img.png",
+        "w": 210,
+        "h": 600
+      }
+    ],
+    "source": "currency-converter-app",
+    "description": "currency-converter-app app description"
+  },
+
+  {
+    "id": "jee-crud-app",
+    "title": "JEE CRUD APP",
+    "language": "java",
+    "technologys": ["JAVA", "Servlet", "Hibernate", "MySQL"],
+    "cover": {
+      "src": "jee-crud-app/img.png",
+      "blur": "jee-crud-app/img.png"
+    },
+    "images": [
+      {
+        "src": "jee-crud-app/img.png",
+        "w": 210,
+        "h": 600
+      }
+    ],
+    "source": "jee-crud-app",
+    "description": "jee-crud-app app description"
+  },
+
+  {
+    "id": "facture-app",
+    "title": "Facture APP",
+    "language": "c#",
+    "technologys": ["C#", "WinForms", "Dapper", "MySQL"],
+    "cover": {
+      "src": "facture-app/img.png",
+      "blur": "facture-app/img.png"
+    },
+    "images": [
+      {
+        "src": "facture-app/img.png",
+        "w": 210,
+        "h": 600
+      }
+    ],
+    "source": "#",
+    "description": "facture-app app description"
+  },
+
+  {
+    "id": "credits-app-desktop",
+    "title": "Credts APP",
+    "language": "c#",
+    "technologys": ["C#", "WinForms", "Dapper", "MySQL"],
+    "cover": {
+      "src": "credits-app-desktop/img.png",
+      "blur": "credits-app-desktop/img.png"
+    },
+    "images": [
+      {
+        "src": "credits-app-desktop/img.png",
+        "w": 210,
+        "h": 600
+      }
+    ],
+    "source": "#",
+    "description": "credits-app-desktop app description"
+  },
+
+  {
+    "id": "g-stock",
+    "title": "Credts APP",
+    "language": "c#",
+    "technologys": ["C#", "WinForms", "Dapper", "MySQL"],
+    "cover": {
+      "src": "g-stock/img.png",
+      "blur": "g-stock/img.png"
+    },
+    "images": [
+      {
+        "src": "g-stock/img.png",
+        "w": 210,
+        "h": 600
+      },
+      {
+        "src": "g-stock/main.png",
+        "w": 210,
+        "h": 600
+      }
+    ],
+    "source": "#",
+    "description": "g-stock app description"
+  },
+
+  {
+    "id": "spring-crud-app",
+    "title": "CRUD APP",
+    "language": "java",
+    "technologys": ["JAVA", "Spring", "Spring Boot", "Hibernate", "MySQL"],
+    "cover": {
+      "src": "spring-crud-app/img.png",
+      "blur": "spring-crud-app/img.png"
+    },
+    "images": [
+      {
+        "src": "spring-crud-app/img.png",
+        "w": 210,
+        "h": 600
+      }
+    ],
+    "source": "spring-crud-app",
+    "description": "spring-crud app description"
+  },
+
+  {
+    "id": "javafx-crud-app",
+    "title": "CRUD APP",
+    "language": "java",
+    "technologys": ["JAVA", "JavaFX", "MySQL"],
+    "cover": {
+      "src": "javafx-crud-app/img.png",
+      "blur": "javafx-crud-app/img.png"
+    },
+    "images": [
+      {
+        "src": "javafx-crud-app/img.png",
+        "w": 210,
+        "h": 600
+      }
+    ],
+    "source": "JavaFx-Gestion-personnel",
+    "description": "spring-crud app description"
+  }
+]
